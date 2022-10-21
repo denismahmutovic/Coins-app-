@@ -15,7 +15,7 @@ const NavBar = () => {
       <nav className="  border-gray-200 px-2 sm:px-4 py-2.5 rounded dark:bg-gray-900 sticky bottom-0   ">
         <div className="container flex flex-wrap justify-between items-center pl-[220px]">
           <div
-            className="flex "
+            className="flex mr-[10px]"
             style={{
               pointerEvents: "none",
             }}
